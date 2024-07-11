@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myenv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# MoviePy temporary files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Log files
+*.log
+
+# MacOS specific files
+.DS_Store
+
+# Python-specific ignore rules
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+
+# Image files (if you don’t want to include them)
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Audio files (if you don’t want to include them)
+*.mp3
+*.wav
+*.ogg
+
+# Ignore any other temporary files or directories
+tmp/
+temp/
